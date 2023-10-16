@@ -1,4 +1,4 @@
-"# Hand-Sign-Detection
+# Hand-Sign-Detection
 
 Detect hand signs (LiveLong, ThankYou, ThumbsUp, ThumbsDown) using this model. To set up locally:
 
