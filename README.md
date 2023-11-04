@@ -17,6 +17,9 @@ Detect hand signs (LiveLong, ThankYou, ThumbsUp, ThumbsDown) using this model. T
 
 7. Add test images to the 'test' folder.
 8. Open the 'inference' folder and run the provided commands.
-   
+
+Sample Output:
+![image](https://github.com/Sravan-Reddy5/Hand-Sign-Detection/assets/136127060/aa813da1-9255-4ca5-828f-e9f509ef3867)
+
 
 Ensure a seamless setup for accurate hand sign classification. Happy detecting!"
